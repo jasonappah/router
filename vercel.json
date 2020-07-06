@@ -1,0 +1,8 @@
+{
+    "routes": [
+        { "src": "/", "dest": "https://jasonaa.carrd.co/" },
+        { "src": "/assets/images/(?<id>[^/]+)", "dest": "https://jasonaa.carrd.co/assets/images/$id" },
+        { "src": "/assets/images/gallery01/(?<id>[^/]+)", "dest": "https://jasonaa.carrd.co/assets/images/gallery01/$id" },
+        { "src": "/(.*)/", "dest": "/api/$1" }
+    ]
+}
