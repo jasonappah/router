@@ -3,7 +3,7 @@ Serves my website and acts as a URL shortener
 
 This is currently deployed on Vercel and the links are stored in an Airtable base.
 
-Try it at [router-inky.vercel.app](router-inky.vercel.app) and [router-inky.vercel.app/github!](router-inky.vercel.app)
+Try it at [router-inky.vercel.app](https://router-inky.vercel.app) and [router-inky.vercel.app/github!](https://router-inky.vercel.app/github)
 
 To deploy this on Vercel, just click this button! Make sure you set these environmental variables! ```AIRTABLE_API_KEY, AIRTABLE_BASE_ID, DEFAULT_URL```
 
