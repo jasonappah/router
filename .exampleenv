@@ -1,0 +1,5 @@
+# Edit this with your info and rename the file to .env 
+
+AIRTABLE_API_KEY=yourapikey
+AIRTABLE_BASE_ID=yourbaseid
+DEFAULT_URL=https://jasonaa.me

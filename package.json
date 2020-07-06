@@ -1,0 +1,23 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "Serves my website and acts as a URL shortener",
+  "main": "api/main.js",
+  "scripts": {
+    "test": "vercel dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonappah/router.git"
+  },
+  "author": "Jason Antwi-Appah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonappah/router/issues"
+  },
+  "homepage": "https://github.com/jasonappah/router#readme",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0"
+  }
+}
