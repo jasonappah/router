@@ -1,7 +1,7 @@
 # router
 Serves my website and acts as a URL shortener
 
-This is currently deployed on Vercel and the links are stored in an Airtable base. This does have the unintended side effect of my links not working when Airtable goes down, so I need to think of a solution to that, but I'm not really interested in using an *actual* database and then having to make some sort of UI, so it will stay as is for now. 
+This is currently deployed on Vercel and the links are stored in an Airtable base. This does have the unintended side effect of my links not working when Airtable goes down, so I need to think of a solution to that, but I'm not really interested in using an *actual* database and then having to make some sort of UI to manage links, so it will stay as is for now. 
 
 Here's my Airtable base: [https://airtable.com/shrJNnm6FZJgwBEev](https://airtable.com/shrJNnm6FZJgwBEev)
 
