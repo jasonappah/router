@@ -11,7 +11,7 @@ To deploy this on Vercel, just click this button! Make sure you set these enviro
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jasonappah/router)
 
-You'll probably need to make some changes in ```vercel.json```. Here's a sample ```vercel.json```. These are the 2 required routes, but you can add more. Don't delete these, as they are crucial to making the app work, but you can edit the ```/``` route to go to the URL of your actual site.
+You'll probably need to make some changes in ```vercel.json```. Here's a sample ```vercel.json```. These are the 2 required routes, but you can add more. Don't delete these, as they are required to make the app work, but you can edit the ```/``` route to go to the URL of your actual site.
 ```
 {
     "routes": [
