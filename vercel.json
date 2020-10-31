@@ -4,7 +4,7 @@
         { "src": "/.well-known/(.*)", "dest": "/.well-known/$1", "headers": { "Content-Type": "application/json" } },
         { "src": "/assets/images/(?<id>[^/]+)", "dest": "https://jasonaa.carrd.co/assets/images/$id" },
         { "src": "/assets/images/gallery01/(?<id>[^/]+)", "dest": "https://jasonaa.carrd.co/assets/images/gallery01/$id" },
-        { "src": "/api/get", "dest": "/api/get" }
+        { "src": "/api/get", "dest": "/api/get" },
         { "src": "/(.*)", "dest": "/api/main?redir=$1" }
     ]
 }
