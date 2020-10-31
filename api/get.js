@@ -37,14 +37,12 @@ module.exports = (req, res) => {
             if (err) {
                 console.error(err);
                 console.log(links);
+                res.json(err)
                 return;
             } else {
                 console.log(links)
                 res.json(things)
-                } else {
-                    console.log("redir is undefined")
-                    redirect("DEFAULT")
-                }
+               
             }
         });
     }
