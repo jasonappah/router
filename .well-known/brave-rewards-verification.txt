@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jasonaa.me
+Token: 78d99fbd50e65de42fd741500617892cea8c92d3ebfab2222b9236ed308ebc9d
