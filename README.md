@@ -5,7 +5,7 @@ This is currently deployed on Vercel and the links are stored in an Airtable bas
 
 Here's my Airtable base: [https://airtable.com/shrJNnm6FZJgwBEev](https://airtable.com/shrJNnm6FZJgwBEev)
 
-Try it at [jasonaa.me](https://jasonaa.me) and [jasonaa.me/github!](https://jasonaa.me/github)
+Try it at [v0.jasonaa.me](https://v0.jasonaa.me) and [v0.jasonaa.me/github!](https://v0.jasonaa.me/github)
 
 To deploy this on Vercel, just click this button! Make sure you set these environmental variables! ```AIRTABLE_API_KEY, AIRTABLE_BASE_ID, DEFAULT_URL```
 
